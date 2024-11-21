@@ -26,5 +26,5 @@ The function is built on R version 4.1.1. The [requirement.txt](https://github.c
 ### License
 
 Copyright © 2024 [Luyang](https://github.com/Luyang8991). <br />
-This project is [MIT](https://github.com/Luyang8991/MultiCOP/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/Luyang8991/SPOT/blob/main/LICENSE) licensed.
 
