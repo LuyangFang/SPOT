@@ -1,0 +1,7 @@
+# R Package Requirements
+rgl (1.2.1)
+MaxPro (4.1.2)
+transport (0.14.6)
+DiceDesign (1.10)
+mvtnorm (1.2.3)
+MASS (7.3.60)
