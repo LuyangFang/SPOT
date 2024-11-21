@@ -13,7 +13,7 @@ SPOT utilizes optimal transport to effectively manage data from complex manifold
 
 The `SPOT_func` function in [util.R](https://github.com/Luyang8991/SPOT/blob/main/code/util.R) provides an implementation of the SPOT algorithm to select a subset of points from a given dataset. By integrating optimal transport mapping and space-filling designs, this method ensures the selected subset preserves the structure and diversity of the original data.
 
-**key features**
+**key features:**
 - Utilizes optimal transport to map data to a uniform hypercube.
 - Employs MaxPro space-filling designs for efficient subset selection.
 - Supports 2D visualization for an intuitive understanding of the subset selection process.
@@ -60,7 +60,8 @@ If your data is 2D, set plot = TRUE to generate visualizations of the subset sel
  - For 2D datasets, intuitive visualizations illustrate the selection process, helping users understand how the subset was generated.
 
 
-
+## Contributions
+We welcome contributions to enhance the functionality or documentation of the SPOT algorithm. Feel free to submit issues or pull requests.
 
 
 
