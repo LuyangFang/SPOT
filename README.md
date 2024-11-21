@@ -25,7 +25,7 @@ The `SPOT_func` function in [util.R](https://github.com/Luyang8991/SPOT/blob/mai
 - `d`: Dimensionality of the dataset (number of columns in `data`).
 - `shot`: The desired size of the subset to be selected.
 - `true_label`: (Optional) A vector of true labels for the data points. Used for visualization purposes (default: NA).
-- `seed`: Random seed for reproducibility (default: 2022).
+- `seed`: Random seed for reproducibility.
 - `plot`: Boolean flag to enable visualization for 2D datasets (default: FALSE).
 
 
