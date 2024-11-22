@@ -11,7 +11,7 @@ SPOT utilizes optimal transport to effectively manage data from complex manifold
 
 ## Tutorial
 
-The `SPOT_func` function in [util.R](https://github.com/Luyang8991/SPOT/blob/main/code/util.R) provides an implementation of the SPOT algorithm to select a subset of points from a given dataset. By integrating optimal transport mapping and space-filling designs, this method ensures the selected subset preserves the structure and diversity of the original data.
+The `SPOT_func` function in [util.R](https://github.com/LuyangFang/SPOT/blob/main/code/util.R) provides an implementation of the SPOT algorithm to select a subset of points from a given dataset. By integrating optimal transport mapping and space-filling designs, this method ensures the selected subset preserves the structure and diversity of the original data.
 
 **key features:**
 - Utilizes optimal transport to map data to a uniform hypercube.
@@ -31,12 +31,12 @@ The `SPOT_func` function in [util.R](https://github.com/Luyang8991/SPOT/blob/mai
 
 ### Requirement
 
-The function is built on R version 4.1.1. The [requirement.txt](https://github.com/Luyang8991/SPOT/blob/main/requirements.txt) file lists all the packages the notebook depends on. 
+The function is built on R version 4.1.1. The [requirement.txt](https://github.com/LuyangFang/SPOT/blob/main/requirements.txt) file lists all the packages the notebook depends on. 
 
 
 ### How to use
 
-A demonstration of the SPOT algorithm is available in the [SPOT_demo.Rmd](https://github.com/Luyang8991/SPOT/blob/main/code/SPOT_demo.Rmd). This file provides step-by-step guidance and usage examples, including detailed visualizations for 2D datasets.
+A demonstration of the SPOT algorithm is available in the [SPOT_demo.Rmd](https://github.com/LuyangFang/SPOT/blob/main/code/SPOT_demo.Rmd). This file provides step-by-step guidance and usage examples, including detailed visualizations for 2D datasets.
 
 If your data is 2D, set plot = TRUE to generate visualizations of the subset selection process. The plots include:
 - Original data distribution.
